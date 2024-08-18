@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "app.security.jwt.secret-key",
+      "type": "java.lang.String",
+      "description": "Description for app.security.jwt.secret-key."
+    },
+    {
+      "name": "app.security.jwt.expiration",
+      "type": "java.lang.String",
+      "description": "Description for app.security.jwt.expiration."
+    },
+    {
+      "name": "spring.data.elasticsearch.cluster-names",
+      "type": "java.lang.String",
+      "description": "Description for spring.data.elasticsearch.cluster-names."
+    },
+    {
+      "name": "spring.data.elasticsearch.cluster-node",
+      "type": "java.lang.String",
+      "description": "Description for spring.data.elasticsearch.cluster-node."
+    },
+    {
+      "name": "app.security.jwt.refresh-token.expiration",
+      "type": "java.lang.String",
+      "description": "Description for app.security.jwt.refresh-token.expiration."
+    }
+  ] }
